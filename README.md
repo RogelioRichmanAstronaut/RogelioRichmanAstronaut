@@ -17,6 +17,8 @@ I'm Daniel Sandoval, a passionate and versatile Software Engineer and AI Enginee
 - **Database Systems**: MySQL, MongoDB, PostgreSQL
 - **Soft Skills**: Leadership, Communication, Problem-solving, Team Collaboration
 
+## Certifications 🧑‍🚀
+- Microsoft Build: Build Multimodal Generative AI Experiences Cloud Skills Challenge (2024)
 <!--
 **RogelioRichmanAstronaut/RogelioRichmanAstronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
