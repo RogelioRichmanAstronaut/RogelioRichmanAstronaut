@@ -1,11 +1,6 @@
 ## Hi there 👋
 I'm Daniel Sandoval, a passionate and versatile Software Engineer and AI Engineer. With a robust background in full-stack development and a keen interest in AI technologies, I am dedicated to creating innovative solutions that drive business success.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/danisando/){:target="_blank" rel="noopener noreferrer"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)(https://www.linkedin.com/in/danisando/){:target="_blank" rel="noopener noreferrer"}]
-<a href="https://www.linkedin.com/in/danisando/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-</a>
 
 ## What I Do Best! ✨
 - **Software Engineering**: Proficient in full-stack development, I excel in designing and developing comprehensive web and mobile applications. My expertise spans ReactJS, NextJS, TypeScript, Node.js, Express, React Native and more, enabling the creation of comprehensive and responsive web applications.
@@ -25,6 +20,10 @@ I'm Daniel Sandoval, a passionate and versatile Software Engineer and AI Enginee
 
 ## Certifications 🧑‍🚀
 - Microsoft Build: Build Multimodal Generative AI Experiences Cloud Skills Challenge (2024)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/danisando/)
+
 <!--
 **RogelioRichmanAstronaut/RogelioRichmanAstronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
