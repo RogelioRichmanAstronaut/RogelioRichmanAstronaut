@@ -1,7 +1,9 @@
 ## Hi there 👋
 I'm Daniel Sandoval, a passionate and versatile Software Engineer and AI Engineer. With a robust background in full-stack development and a keen interest in AI technologies, I am dedicated to creating innovative solutions that drive business success.
 
-<a href="https://www.linkedin.com/in/danisando/" target="_blank">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/danisando/){:target="_blank" rel="noopener noreferrer"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)(https://www.linkedin.com/in/danisando/){:target="_blank" rel="noopener noreferrer"}]
+<a href="https://www.linkedin.com/in/danisando/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
 </a>
 
