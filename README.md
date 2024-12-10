@@ -12,7 +12,7 @@ I'm Daniel Sandoval, a passionate and versatile Software Engineer and AI Enginee
 - **UI/UX Design**: Designing intuitive and user-friendly interfaces using tools like Figma, focused on enhancing overall user engagement through meticulous attention to detail and user-centric design principles.
 
 ## Technical Skills 🛠️
-- **Programming Languages**: JavaScript, TypeScript, Python, Java, C++
+- **Programming Languages**: JavaScript, TypeScript, Python, Java, C++, Kotlin, Swift
 - **Web Technologies**: React, Node.js, HTML, CSS
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform
 - **DevOps Tools**: Docker, Jenkins
