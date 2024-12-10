@@ -1,15 +1,15 @@
 ## Hi there 👋
-I'm Daniel Sandoval, a passionate and versatile Software Engineer and AI Engineer. With a robust background in full-stack development and a keen interest in AI technologies, I am dedicated to creating innovative solutions that drive business success.
+I'm Daniel Sandoval, a passionate and versatile Software Engineer and AI Engineer. With background in full-stack development and AI technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/danisando/)
 
-## What I Do Best! ✨
-- **Software Engineering**: Proficient in full-stack development, I excel in designing and developing comprehensive web and mobile applications. My expertise spans ReactJS, NextJS, TypeScript, Node.js, Express, React Native and more, enabling the creation of comprehensive and responsive web applications.
-- **AI Integration**: Skilled in integrating AI models and chatbot functionalities using cutting-edge technologies like OpenAI Models, RAG, and Azure AI, delivering intelligent and tailored solutions.
+## Skills! ✨
+- **Software Engineering**: Full-stack development, designing and developing comprehensive web and mobile applications. ReactJS, NextJS, TypeScript, Node.js, Express, React Native and more, enabling the creation of comprehensive and responsive web applications.
+- **AI Integration**: Integrating AI models and chatbot functionalities using cutting-edge technologies like OpenAI Models, RAG, and Azure AI.
 - **Cloud Technologies**: Experienced in deploying applications on major cloud platforms such as AWS, Google Cloud Platform (GCP) and Azure, ensuring seamless and scalable solutions.
-- **Project Management**: From initial concept to final deployment, I manage projects meticulously, ensuring timely and efficient delivery. Regular communication with clients is a cornerstone of my approach to ensure alignment and satisfaction.
-- **Agile Methodologies**: Proven ability to manage and execute projects using Agile frameworks, ensuring efficient and timely delivery.
-- **UI/UX Design**: Skilled in designing intuitive and user-friendly interfaces using tools like Figma, focused on enhancing overall user engagement and satisfaction through meticulous attention to detail and user-centric design principles.
+- **Project Management**: From initial concept to final deployment, ensuring timely and efficient delivery. Regular communication with clients to ensure alignment and satisfaction.
+- **Agile Methodologies**: Manage and execute projects using Agile frameworks, ensuring efficient and timely delivery.
+- **UI/UX Design**: Designing intuitive and user-friendly interfaces using tools like Figma, focused on enhancing overall user engagement through meticulous attention to detail and user-centric design principles.
 
 ## Technical Skills 🛠️
 - **Programming Languages**: JavaScript, TypeScript, Python, Java, C++
